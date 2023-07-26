@@ -1,6 +1,3 @@
-# Demo2
-some text
 
-Some new code
-Some new content
-New content
+# Fuck this GitHub
+## Not user-firendly
